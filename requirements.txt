@@ -1,9 +1,9 @@
 streamlit
-Jinja2
-MarkupSafe
+pandas
 numpy
 seaborn
-scikit-learn
 matplotlib
-pandas
 plotly
+pickle
+sklearn
+Pillow
