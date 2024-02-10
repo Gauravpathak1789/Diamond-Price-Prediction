@@ -12,7 +12,7 @@ from sklearn.preprocessing import OrdinalEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from PIL import Image
-pickle_in = open("pipe2.pkl","rb")
+pickle_in = open("pipe1.pkl","rb")
 regressor=pickle.load(pickle_in)
 
 st.title("-----Case Study On Diamond Dataset----")
