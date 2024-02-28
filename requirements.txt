@@ -5,5 +5,4 @@ numpy
 seaborn
 matplotlib
 plotly
-sklearn
 Pillow
