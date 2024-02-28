@@ -6,6 +6,5 @@ numpy
 seaborn
 matplotlib
 plotly
-pickle
 sklearn
 Pillow
